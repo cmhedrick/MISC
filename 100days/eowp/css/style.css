@@ -72,6 +72,7 @@ footer.page-footer {
 
 .av-white-text {
   font-weight: bold;
+  color: #fff;
 }
 
 .conn-font, a, p, h1, h2, h3, h4, h5 {
@@ -121,5 +122,8 @@ nav .nav-wrapper .logo-pad-left {
 }
 
 #about-container {
-  padding-top: 50vh;
+}
+
+.about-buffer {
+    margin-top: 48vh;
 }

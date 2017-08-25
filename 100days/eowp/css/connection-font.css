@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ConnectionBold';
+    src: url('ConnectionBold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ConnectionRegular';
+    src: url('ConnectionRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
